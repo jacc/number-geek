@@ -1,1 +1,1 @@
-<h1 align='center'><img src='branding/banner_t.png' width='800'></img><h1>
+<h1 align='center'><img src='branding/banner_t.png' width='600'><h1>
