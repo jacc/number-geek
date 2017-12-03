@@ -1,1 +1,1 @@
-![banner](branding/banner_t.png]
+![banner](branding/banner_t.png)
