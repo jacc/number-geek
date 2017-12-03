@@ -1,1 +1,1 @@
-<img src='branding/banner_t.png' style='width:200px'></img>
+<img src='branding/banner_t.png' style='width:150px'></img>
