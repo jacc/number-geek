@@ -4,7 +4,7 @@
       "description": "rewrite of code for number geek",
       "main": "index.js",
       "scripts": {
-        "start": "node --harmony index"
+        "start": "npm install && node --harmony index"
       },
       "author": "",
       "license": "ISC",
